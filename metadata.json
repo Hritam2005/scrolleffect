@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Landing Page",
+  "description": "A visually stunning fullscreen landing page for the VANGUARD creative collective, utilizing atmospheric live background video, custom display typography, and smooth transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
